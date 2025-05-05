@@ -55,3 +55,5 @@ This platform is built with a deep respect for **cultural pride**, **local econo
 - **Mobile money dominance** in daily transactions across Cameroon.
 - **Lack of a marketplace** focused exclusively on local products — *a clear gap*.
 - Support from the **diaspora** and impact-focused consumers globally.
+
+
